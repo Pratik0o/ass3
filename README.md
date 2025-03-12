@@ -10,7 +10,7 @@ This project simulates basic Excel-like operations such as calculating the sum a
 
 ## Demo
 
-You can view a live demo of this project [here]
+You can view a live demo of this project https://pratik0o.github.io/ass3/
 
 ## Files
 
